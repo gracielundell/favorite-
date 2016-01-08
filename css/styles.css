@@ -16,4 +16,14 @@ li {
   border: 3px solid green;
   padding: 10px;
   margin: 20px;
+  background-color: #eee;
+}
+
+body {
+    text-align: justify;
+    background-color: #d9f2e6;
+}
+
+h1 {
+    text-align: center;
 }
